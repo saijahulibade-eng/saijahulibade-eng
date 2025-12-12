@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bade saijahuli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👋 Hello! I'm Saijahuli Bade. 👨‍💻 Aspiring Full-Stack Developer | 🐍 Python | 🌐 HTML, CSS, JS, React | 🗄 SQL & Oracle | 🚀 Building & learning everyday</h3>
 
 - 📫 How to reach me **saijahulibade@gmail.com**
 
